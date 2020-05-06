@@ -38,7 +38,7 @@
 >   - 类型划分法拆分子功能
 > - 工具：`xmind`
 >
-> ![image](E:\测试\全面系统学测试\01-微信红包测试\微信红包-测试框架.png)
+> ![image](https://github.com/Leofighting/Wechat-red-packet-Testing/blob/master/01-微信红包-功能测试/微信红包-测试框架.png)
 
 
 
@@ -77,7 +77,7 @@
 
 > - 工具：禅道、模拟器
 > - bug 处理（提交 bug，bug 记录包含的内容）
-> - ![](E:\测试\全面系统学测试\01-微信红包测试\缺陷描述.png)
+> - ![image](https://github.com/Leofighting/Wechat-red-packet-Testing/blob/master/01-微信红包-功能测试/缺陷描述.png)
 
 
 
